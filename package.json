@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Shaurya50211/Calculator-WebApp/issues"
   },
-  "homepage": "https://github.com/Shaurya50211/Calculator-WebApp#readme"
+  "homepage": "https://github.com/Shaurya50211/Calculator-WebApp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
